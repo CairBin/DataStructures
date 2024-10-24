@@ -19,3 +19,4 @@ Data structures code for the postgraduate entrance exams.
 * Huffman tree
 * string matching algorithm (KMP, violence matching, optimized violence matching)
 * sorting algorithm (shell, bubble, merge, selection, quick)
+* AVL tree
