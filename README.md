@@ -22,3 +22,4 @@ Data structures code for the postgraduate entrance exams.
 * AVL tree
 * Heap
 * B-Tree
+* Hash table
